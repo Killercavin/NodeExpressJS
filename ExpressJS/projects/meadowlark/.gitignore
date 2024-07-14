@@ -1,0 +1,5 @@
+# Files or directories that you don't want to push with the repository add them below
+# Ignore packages installed by npm, yarn etc
+node_modules
+.DS_Store
+*.hbs
